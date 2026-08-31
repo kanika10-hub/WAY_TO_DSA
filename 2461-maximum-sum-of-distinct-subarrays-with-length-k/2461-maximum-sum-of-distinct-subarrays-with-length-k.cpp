@@ -33,7 +33,7 @@ public:
 
             left++;
 
-            // Add right element
+            
             sum += nums[right];
             mp[nums[right]]++;
 
