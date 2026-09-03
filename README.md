@@ -30,6 +30,7 @@
 | [0035-search-insert-position](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0367-valid-perfect-square) |
 ## Prefix Sum
 |  |
@@ -56,4 +57,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0069-sqrtx) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
