@@ -29,6 +29,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0367-valid-perfect-square](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0367-valid-perfect-square) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -45,4 +46,8 @@
 |  |
 | ------- |
 | [3866-first-unique-even-element](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/3866-first-unique-even-element) |
+## Math
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
