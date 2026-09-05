@@ -11,6 +11,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0875-koko-eating-bananas](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0875-koko-eating-bananas) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3866-first-unique-even-element](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/3866-first-unique-even-element) |
@@ -38,6 +39,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0367-valid-perfect-square) |
+| [0875-koko-eating-bananas](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0875-koko-eating-bananas) |
 ## Prefix Sum
 |  |
 | ------- |
