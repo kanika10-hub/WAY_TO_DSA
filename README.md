@@ -51,6 +51,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0344-reverse-string](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0541-reverse-string-ii) |
 ## Greedy
 |  |
@@ -77,5 +78,6 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0541-reverse-string-ii) |
 <!---LeetCode Topics End-->
