@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0058-length-of-last-word](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0345-reverse-vowels-of-a-string) |
