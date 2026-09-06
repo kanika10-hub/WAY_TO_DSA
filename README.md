@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0383-ransom-note](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0383-ransom-note) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3866-first-unique-even-element](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/3866-first-unique-even-element) |
 ## Sliding Window
@@ -55,6 +56,7 @@
 | [0125-valid-palindrome](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0383-ransom-note) |
 | [0541-reverse-string-ii](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0541-reverse-string-ii) |
 ## Greedy
 |  |
@@ -63,6 +65,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0383-ransom-note) |
 | [3866-first-unique-even-element](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/3866-first-unique-even-element) |
 ## Math
 |  |
