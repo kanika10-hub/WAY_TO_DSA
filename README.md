@@ -65,6 +65,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0383-ransom-note) |
 | [0541-reverse-string-ii](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0541-reverse-string-ii) |
+| [0844-backspace-string-compare](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [0344-reverse-string](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0541-reverse-string-ii) |
+| [0844-backspace-string-compare](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0844-backspace-string-compare) |
 ## String Matching
 |  |
 | ------- |
@@ -115,4 +117,12 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0049-group-anagrams) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
