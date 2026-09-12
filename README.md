@@ -23,6 +23,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0383-ransom-note) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3866-first-unique-even-element](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/3866-first-unique-even-element) |
@@ -59,6 +60,7 @@
 | [0058-length-of-last-word](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0383-ransom-note) |
