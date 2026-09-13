@@ -1,21 +1,42 @@
 class Solution {
 public:
     string reverseStr(string s, int k) {
-        
-        for(int i=0;i<s.size();i+=(2*k))
+        if(s.size()==1)
         {
-            int left=i;
-            int right=min(i + k - 1, (int)s.size() - 1);
-            while(left<right)
-            {
-                char temp=s[left];
-                s[left]=s[right];
-                s[right]=temp;
+            return s;
+        }
+        if(k>s.size())
+        {
+            k=s.size();
+        }
+        int left=0;
+        int right=k-1;
+        while(left<=right)
+             {
+                int temp=s[right];
+                s[right]=s[left];
+                s[left]=temp;
                 left++;
                 right--;
-            }
-    
+             }
+        
+        
+        for(int i=2*k;i<s.size();i+=2*k)
+        {
+             left=i;
+             right=min(i+k-1,(int)s.size()-1);
+             
+             while(left<right)
+             {
+                int temp=s[right];
+                s[right]=s[left];
+                s[left]=temp;
+                left++;
+                right--;
+             }
+
         }
         return s;
+        
     }
 };
