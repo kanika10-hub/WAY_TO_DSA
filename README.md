@@ -25,6 +25,7 @@
 | [0205-isomorphic-strings](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0383-ransom-note) |
+| [0567-permutation-in-string](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0567-permutation-in-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3866-first-unique-even-element](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/3866-first-unique-even-element) |
 ## Sliding Window
@@ -32,6 +33,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0567-permutation-in-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
@@ -66,6 +68,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0383-ransom-note) |
 | [0541-reverse-string-ii](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
@@ -98,6 +101,7 @@
 | [0344-reverse-string](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0844-backspace-string-compare) |
 ## String Matching
 |  |
