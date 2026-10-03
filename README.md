@@ -13,6 +13,7 @@
 | [0162-find-peak-element](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0500-keyboard-row](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0500-keyboard-row) |
+| [0867-transpose-matrix](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -140,6 +141,7 @@
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0867-transpose-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -152,4 +154,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
