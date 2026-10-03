@@ -26,6 +26,7 @@
 | [0242-valid-anagram](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0567-permutation-in-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3866-first-unique-even-element](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/3866-first-unique-even-element) |
@@ -69,6 +70,7 @@
 | [0344-reverse-string](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0844-backspace-string-compare) |
@@ -80,6 +82,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [3866-first-unique-even-element](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/3866-first-unique-even-element) |
 ## Math
 |  |
@@ -142,4 +145,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0005-longest-palindromic-substring) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
