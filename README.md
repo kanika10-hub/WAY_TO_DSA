@@ -16,6 +16,7 @@
 | [0867-transpose-matrix](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1572-matrix-diagonal-sum](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/1672-richest-customer-wealth) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -159,5 +160,6 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
