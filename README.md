@@ -10,6 +10,7 @@
 | [0049-group-anagrams](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0162-find-peak-element) |
@@ -29,6 +30,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0290-word-pattern) |
@@ -166,6 +168,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/1672-richest-customer-wealth) |
