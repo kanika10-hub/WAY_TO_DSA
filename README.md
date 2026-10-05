@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0162-find-peak-element) |
@@ -145,6 +146,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0844-backspace-string-compare](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0867-transpose-matrix) |
 ## Dynamic Programming
@@ -163,6 +165,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/1672-richest-customer-wealth) |
