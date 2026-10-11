@@ -16,6 +16,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0268-missing-number) |
 | [0500-keyboard-row](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0500-keyboard-row) |
 | [0867-transpose-matrix](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0875-koko-eating-bananas) |
@@ -34,6 +35,7 @@
 | [0073-set-matrix-zeroes](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -59,6 +61,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0367-valid-perfect-square) |
 | [0875-koko-eating-bananas](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0875-koko-eating-bananas) |
@@ -101,6 +104,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0367-valid-perfect-square) |
 ## Newton's Method
 |  |
@@ -142,6 +146,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -176,4 +181,8 @@
 | [1572-matrix-diagonal-sum](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
