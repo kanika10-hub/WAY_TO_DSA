@@ -17,6 +17,7 @@
 | [0162-find-peak-element](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0500-keyboard-row) |
 | [0867-transpose-matrix](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0875-koko-eating-bananas) |
@@ -39,6 +40,7 @@
 | [0290-word-pattern](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0567-permutation-in-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
