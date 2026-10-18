@@ -153,6 +153,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0844-backspace-string-compare](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
@@ -195,13 +196,16 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
