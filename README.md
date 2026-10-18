@@ -197,15 +197,22 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0257-binary-tree-paths) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
