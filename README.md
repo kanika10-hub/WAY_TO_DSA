@@ -198,6 +198,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0257-binary-tree-paths) |
@@ -205,6 +206,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0257-binary-tree-paths) |
@@ -212,11 +214,13 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kanika10-hub/WAY_TO_DSA/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
